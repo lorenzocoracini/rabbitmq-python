@@ -1,3 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# file: ~/.gitignore_global
+.idea
